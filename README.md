@@ -1,2 +1,2 @@
 # Mathematical-Foundations-of-Machine-Learning-Euclidean-Distance
-first programming assignment in Guided Tour of Machine Learning in Finance Specialization
+first programming assignment in Machine Learning and Reinforcement Learning in Finance Specialization
